@@ -9,6 +9,7 @@ Goals: To teach students the basics of personal finance in a practical and also 
 Open questions that we want to answer over the semester: 
 * How expensive of an apartment/mortgage can I afford? 
 * How do I know what I can afford each month?
+* How do I pay all my bills?
 * How do I pay off debt? 
 * How much should I save each month?
 * How do I do my taxes? (a thin overview of available services)
