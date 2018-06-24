@@ -2,7 +2,7 @@
 
 Why do high schools and colleges teach trigonometry, but not basic finances? Students of all demographics graduate and few know how to responsibly manage their money. 
 
-While I have no personal connection to any board of education, I think this should count as a core math class. This project is public domain and anyone can contribute and/or use this cirriculum for any purpose. 
+While I have no personal connection to any board of education, I think this should count as a core math class. This project is public domain and anyone can contribute and/or use this cirriculum for any purpose. I chose to host this on Github because the path to collaboration is very well defined (see [Github Pull Requests](https://help.github.com/articles/creating-a-pull-request/)).
 
 Goals: To teach students the basics of personal finance in a practical and also technical way. 
 
