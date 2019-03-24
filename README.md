@@ -1,8 +1,10 @@
 # basic-finance-class
 
-Why do high schools and colleges teach trigonometry, but not basic finances? Few students know how to responsibly manage their money, but they know how to solve for x!
+Why do high schools and colleges teach geometry, but not basic finances? Few students know how to responsibly manage their money and get taken advantage of, but they know how to solve for `x` on a triangle! 
 
-My belief is that schools should adopt some form of a basic finance class into their required cirriculum as a math class, even over other traditionally offered math classes. These ideas are important for lower-middle class students to learn so that they can manage their money without paying for assistance/paying for mistakes. 
+My belief is that all schools should adopt some form of a basic finance class into their required cirriculum, even over other traditionally offered math classes. These ideas are very important for lower-middle class students to learn so that they can manage their money without paying for mistakes/paying for assistance. 
+
+Creating more financially independent people can improve lives and even the national economy!
 
 This project is public domain and anyone can contribute and/or use this cirriculum for any purpose. I chose to host this on Github because the path to collaboration is very well defined (see [Github Pull Requests](https://help.github.com/articles/creating-a-pull-request/)).
 
