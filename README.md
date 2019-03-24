@@ -30,9 +30,13 @@ This project is public domain and anyone can contribute and/or use this cirricul
 
 **Credit/Credit Cards**
 * How do I get a credit card?
+ * The first card can be hard to get and you might have to apply to many to get it.
 * Why are credit cards "free"? Why do they give so many perks? 
 * What is APR? 
 * How do I grow my credit scores? 
+ * You must have a credit card and use it at least a little bit. From there, the advice on Mint.com or CreditKarma.com is fine. 
+* Who cares about a credit score?
+ * Credit scores affect every big purchase that you make (car, house, etc), the ability to get new cards, and the size of your credit line. 
 * Why do credit unions do? 
 
 **Money concepts:**
