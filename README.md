@@ -33,6 +33,7 @@ This project is public domain and anyone can contribute and/or use this cirricul
 **Credit/Credit Cards**
 * How do I get a credit card?
   * The first card can be hard to get and you might have to apply to many to get it.
+  * Consider department store cards - they are usually easier to get. 
 * Why are credit cards "free"? Why do they give so many perks? 
 * What is APR? 
 * How do I grow my credit scores? 
