@@ -49,3 +49,4 @@ This project is public domain and anyone can contribute and/or use this cirricul
 
 **Citations/Resources**
 * Reddit's personal finance guide is outstanding - https://www.reddit.com/r/personalfinance/wiki/index
+* Khan Academy has a nice selection - https://www.khanacademy.org/college-careers-more/personal-finance
