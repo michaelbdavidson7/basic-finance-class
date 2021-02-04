@@ -46,3 +46,6 @@ This project is public domain and anyone can contribute and/or use this cirricul
 * Retirement calculator + compound interest at different times
 * How to do taxes online - basics including services like TurboTax and Creditkarma (free!)
 * How to run a big bank (know what kind of services to offer and at what cost, to help students know how banks work)
+
+**Citations/Resources**
+* Reddit's personal finance guide is outstanding - https://www.reddit.com/r/personalfinance/wiki/index
