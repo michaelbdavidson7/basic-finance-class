@@ -1,4 +1,4 @@
-# basic-finance-class
+# Basic Finances class outline
 
 Why do high schools and colleges teach geometry, but not basic finances? Few students know how to responsibly manage their money and get taken advantage of, but they know how to solve for `x` on a triangle! 
 
