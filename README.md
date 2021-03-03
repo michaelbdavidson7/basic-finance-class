@@ -1,6 +1,6 @@
 # Basic Finances class outline
 
-Why do high schools and colleges teach geometry, but not basic finances? Few students know how to responsibly manage their money and get taken advantage of, but they know how to solve for `x` on a triangle! 
+Why do high schools and colleges require tough, esoteric math classes, but not basic finances? Few students know how to responsibly manage their money and get taken advantage of, but they know how to solve for `x` on a triangle! 
 
 My belief is that all schools should adopt some form of a basic finance class into their required cirriculum, even over other traditionally offered math classes. These ideas are very important for lower-middle class students to learn so that they can manage their money without paying for mistakes/paying for assistance. 
 
