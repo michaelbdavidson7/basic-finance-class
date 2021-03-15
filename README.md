@@ -14,7 +14,7 @@ This project is public domain and anyone can contribute and/or use this cirricul
 * What is an emergency fund?
   * The first thing someone should do is put away a fund (e.g. $10k) as an emergency fund 
 * How expensive of an apartment/mortgage can I afford? 
-  * The 40x rule - You can afford a monthly rent that is 40x your yearly salary. For example, if the rent is $2,000 a month, you’d need to make $80,000 a year to be approved. ([Source](https://lifehacker.com/figure-out-how-much-rent-you-can-afford-with-the-40x-ru-1725085955))
+  * The 40x rule - You can afford a monthly rent that is (your yearly salary/40). For example, if the rent is $2,000 a month, you’d need to make $80,000 a year to be approved. ([Source](https://lifehacker.com/figure-out-how-much-rent-you-can-afford-with-the-40x-ru-1725085955))
 * How do I know what I can afford each month?
 * How do I pay all my bills?
 * How do I pay off debt? 
