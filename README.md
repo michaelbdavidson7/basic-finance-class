@@ -6,7 +6,7 @@ My belief is that all schools should adopt some form of a basic finance class in
 
 Creating more financially independent people can improve lives and even the national economy!
 
-This project is public domain and anyone can contribute and/or use this cirriculum for any purpose. I chose to host this on Github because the path to collaboration is very well defined (see [Github Pull Requests](https://help.github.com/articles/creating-a-pull-request/)).
+This project is public domain and anyone can contribute and/or use this cirriculum for any purpose. I chose to host this on Github because the path to collaboration is very well defined (see [Github Pull Requests](https://help.github.com/articles/creating-a-pull-request/)). The goal of this project is to create a syllabus and lesson plan that any teacher around the world can pick up, and tweak it to their needs. 
 
 **Goal**: To teach the basics of personal finance in a practical and also technical way. 
 
@@ -50,3 +50,8 @@ This project is public domain and anyone can contribute and/or use this cirricul
 **Citations/Resources**
 * Reddit's personal finance guide is outstanding - https://www.reddit.com/r/personalfinance/wiki/index
 * Khan Academy has a nice selection - https://www.khanacademy.org/college-careers-more/personal-finance
+
+
+
+**Basic lesson plan**
+Week 1: Emergency fund - Stuff happens! Car trouble! Dental bills! Rent hikes! 
