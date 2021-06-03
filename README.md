@@ -29,6 +29,7 @@ This project is public domain and anyone can contribute and/or use this cirricul
   * https://en.wikipedia.org/wiki/Pyramid_scheme
 * Payday loans
 * Debt payoff calculations
+* Military recruitment can be sold as a scam: recruits are told they are getting paid 24/7 and it goes straight to savings. Don't realize they're paid in pebbles and if they went to college/trade school and got a job they would make much more money in 5-6 years than through military. 
 
 **Credit/Credit Cards**
 * How do I get a credit card?
@@ -54,4 +55,25 @@ This project is public domain and anyone can contribute and/or use this cirricul
 
 
 **Basic lesson plan**
-Week 1: Emergency fund - Stuff happens! Car trouble! Dental bills! Rent hikes! 
+Week 1 & 2: Emergency fund - Stuff happens! Car trouble! Dental bills! Rent hikes! Most people don't even expect it when they lose their job. 
+* How much money needs to be put away? Two or three months of expenses, so it depends on income and expenses
+  * How much does an hourly job make per year? How much income does a person have after tax?
+  * What are the biggest expenses for most people? What are hidden expenses? (ask the class to name unexpected expenses)
+* Students should be able to conclude that if someone makes X per year they should have Y put away, and that they can do that over time. 
+* Explain how nasty payday loans can be if there is time
+
+Week 3 - Income and Expenses continued
+* What can I afford? 
+
+Week 4 - Debt, Banks, and Loans
+* How do banks work?
+
+Week 5 - Credit, Credit Cards, and Major Purchases
+
+Week 6 - Retirement calculator
+* Shockingly, one of the most important things to start off with in youth, because it goes up exponentially
+
+Week 7 - Savings
+
+Week 8 - Scams, Scams, Scams
+* Likely best to save this for late in the course
