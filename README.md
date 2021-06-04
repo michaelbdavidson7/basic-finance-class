@@ -77,3 +77,8 @@ Week 7 - Savings
 
 Week 8 - Scams, Scams, Scams
 * Likely best to save this for late in the course
+
+Week 9 - Taxes and the Secrets of the Universe
+* How to pay your taxes through sites like Creditkarma and Turbotax
+* Discuss pay brackets
+* Discuss tax bracket pay bump fallacy - no one ever makes less when they go up in pay brackets
