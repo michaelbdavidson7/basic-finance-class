@@ -68,7 +68,7 @@ Week 3 - Income and Expenses continued
 Week 4 - Debt, Banks, and Loans
 * How do banks work?
 
-Week 5 - Credit, Credit Cards, and Major Purchases
+Week 5 - What not to do with a Credit Card, THEN what TO do with a credit card - Credit, Credit Cards, and Major Purchases
 
 Week 6 - Retirement calculator
 * Shockingly, one of the most important things to start off with in youth, because it goes up exponentially
